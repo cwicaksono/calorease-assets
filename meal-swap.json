@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "dish_id": 1,
     "main_dish_name": "Fried Shrimp",
     "type": "Launch",
     "image": "",
@@ -14,7 +14,7 @@
     "iron_mg": 3.4
   },
   {
-    "id": 2,
+    "dish_id": 2,
     "main_dish_name": "Grilled Chicken",
     "type": "Launch",
     "image": "",
@@ -28,7 +28,7 @@
     "iron_mg": 1.5
   },
   {
-    "id": 3,
+    "dish_id": 3,
     "main_dish_name": "Hard Boiled Eggs and Almond",
     "type": "Breakfast",
     "image": "",
@@ -42,7 +42,7 @@
     "iron_mg": 2.5
   },
   {
-    "id": 4,
+    "dish_id": 4,
     "main_dish_name": "Chicken Teriyaki Stir Fry",
     "type": "Launch",
     "image": "",
@@ -56,7 +56,7 @@
     "iron_mg": 3.6
   },
   {
-    "id": 5,
+    "dish_id": 5,
     "main_dish_name": "Tofu and Black Bean Wrap",
     "type": "Launch",
     "image": "",
@@ -70,7 +70,7 @@
     "iron_mg": 6.8
   },
   {
-    "id": 6,
+    "dish_id": 6,
     "main_dish_name": "Greek Yogurt",
     "type": "Breakfast",
     "image": "",
