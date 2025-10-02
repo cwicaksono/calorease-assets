@@ -1,0 +1,74 @@
+[
+  {
+    "main_dish_name": "Fried Shrimp",
+    "image": "",
+    "calories": 532,
+    "protein_g": 35.6,
+    "fat_g": 26.6,
+    "carbohydrates_g": 37.6,
+    "cholesterol_mg": 375,
+    "sodium_mg": 329,
+    "calcium_mg": 122,
+    "iron_mg": 3.4
+  },
+  {
+    "main_dish_name": "Grilled Chicken",
+    "image": "",
+    "calories": 335,
+    "protein_g": 62,
+    "fat_g": 7.5,
+    "carbohydrates_g": 0,
+    "cholesterol_mg": 165,
+    "sodium_mg": 140,
+    "calcium_mg": 15,
+    "iron_mg": 1.5
+  },
+  {
+    "main_dish_name": "Hard Boiled Eggs and Almond",
+    "image": "",
+    "calories": 286,
+    "protein_g": 17.7,
+    "fat_g": 22.3,
+    "carbohydrates_g": 6.6,
+    "cholesterol_mg": 372,
+    "sodium_mg": 140,
+    "calcium_mg": 95,
+    "iron_mg": 2.5
+  },
+  {
+    "main_dish_name": "Chicken Teriyaki Stir Fry",
+    "image": "",
+    "calories": 610,
+    "protein_g": 45,
+    "fat_g": 22,
+    "carbohydrates_g": 55,
+    "cholesterol_mg": 135,
+    "sodium_mg": 1420,
+    "calcium_mg": 78,
+    "iron_mg": 3.6
+  },
+  {
+    "main_dish_name": "Tofu and Black Bean Wrap",
+    "image": "",
+    "calories": 510,
+    "protein_g": 27,
+    "fat_g": 18,
+    "carbohydrates_g": 62,
+    "cholesterol_mg": 0,
+    "sodium_mg": 680,
+    "calcium_mg": 210,
+    "iron_mg": 6.8
+  },
+  {
+    "main_dish_name": "Greek Yogurt",
+    "image": "",
+    "calories": 100,
+    "protein_g": 10,
+    "fat_g": 4,
+    "carbohydrates_g": 6,
+    "cholesterol_mg": 10,
+    "sodium_mg": 50,
+    "calcium_mg": 110,
+    "iron_mg": 0.1
+  }
+]
