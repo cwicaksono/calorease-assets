@@ -8,5 +8,20 @@
         "title": "Kraven the Hunter",
         "cover": "https://image.tmdb.org/t/p/w185/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
         "year": 2024
+    },
+    {
+        "title": "Fast Five",
+        "cover": "https://image.tmdb.org/t/p/w185/h0Xsy4aomjMO47RpoHv8lnfbkoE.jpg",
+        "year": 2011
+    },
+    {
+        "title": "Venom: The Last Dance",
+        "cover": "https://image.tmdb.org/t/p/w185/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "year": 2023
+    },
+    {
+        "title": "The Fate of the Furious",
+        "cover": "https://image.tmdb.org/t/p/w185/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+        "year": 2023
     }
 ]
