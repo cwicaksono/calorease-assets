@@ -1,6 +1,8 @@
 [
   {
+    "id": 1,
     "main_dish_name": "Fried Shrimp",
+    "type": "Launch",
     "image": "",
     "calories": 532,
     "protein_g": 35.6,
@@ -12,7 +14,9 @@
     "iron_mg": 3.4
   },
   {
+    "id": 2,
     "main_dish_name": "Grilled Chicken",
+    "type": "Launch",
     "image": "",
     "calories": 335,
     "protein_g": 62,
@@ -24,7 +28,9 @@
     "iron_mg": 1.5
   },
   {
+    "id": 3,
     "main_dish_name": "Hard Boiled Eggs and Almond",
+    "type": "Breakfast",
     "image": "",
     "calories": 286,
     "protein_g": 17.7,
@@ -36,7 +42,9 @@
     "iron_mg": 2.5
   },
   {
+    "id": 4,
     "main_dish_name": "Chicken Teriyaki Stir Fry",
+    "type": "Launch",
     "image": "",
     "calories": 610,
     "protein_g": 45,
@@ -48,7 +56,9 @@
     "iron_mg": 3.6
   },
   {
+    "id": 5,
     "main_dish_name": "Tofu and Black Bean Wrap",
+    "type": "Launch",
     "image": "",
     "calories": 510,
     "protein_g": 27,
@@ -60,7 +70,9 @@
     "iron_mg": 6.8
   },
   {
+    "id": 6,
     "main_dish_name": "Greek Yogurt",
+    "type": "Breakfast",
     "image": "",
     "calories": 100,
     "protein_g": 10,
