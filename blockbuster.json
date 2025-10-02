@@ -1,0 +1,14 @@
+{
+    "movies":[
+        {
+            "title": "Mission: Impossible – Dead Reckoning Part One",
+            "cover": "https://image.tmdb.org/t/p/w185/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            "year": 2023
+        },
+        {
+            "title": "Kraven the Hunter",
+            "cover": "https://image.tmdb.org/t/p/w185/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
+            "year": 2024
+        }
+    ]
+}
